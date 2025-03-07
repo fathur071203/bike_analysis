@@ -16,7 +16,7 @@ pip install -r requirements.txt
 Setelah semua dependensi terinstal, jalankan perintah berikut untuk memulai dashboard:
 
 ```sh
-streamlit run app.py
+streamlit run dashboard.py
 ```
 
 Pastikan bahwa file dataset (`day_data.csv` dan `hour_data.csv`) berada di dalam folder `Dashboard/` agar aplikasi dapat berjalan dengan baik
